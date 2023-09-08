@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://sagarshetty.netlify.app/assets/Resume/resume.pdf](https://sagarshetty.netlify.app/assets/Resume/resume.pdf)
 
-- ⚡ Fun fact **I speak three languages fluently: English, JavaScript, and Emojinese! 🗣️🤖📚**
+- ⚡ Fun fact **I speak four languages fluently: English, Kannada, Hindi, and JavaScript!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarshetty21) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sagar-shetty) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sagar__shetty)
