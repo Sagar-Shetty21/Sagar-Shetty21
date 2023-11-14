@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [a react-native game.](https://github.com/Sagar-Shetty21/Sem-Project](https://github.com/Sagar-Shetty21/Hand-Cricket-Game)
+- 🔭 I’m currently working on [a react-native game.](https://github.com/Sagar-Shetty21/Hand-Cricket-Game)
 
 - 🌱 I’m currently learning **Docker, AWS**
 
