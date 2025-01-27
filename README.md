@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sagar Shetty</h1>
-<h3 align="center">🌐 Web developer by day, code wizard by night – I spin HTML, CSS, and JavaScript spells to bring digital dreams to life. My keyboard is my wand, and bugs beware – I'm the ultimate exterminator! On a mission to turn caffeine into clean code and errors into opportunities for laughter. Join me in the quest for pixel perfection and the eternal hunt for the missing semicolon! 🪄🎩🦸‍♂️</h3>
+# Hi there, I'm Sagar Shetty 👋
 
-# 💫 About Me:
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with 15 months of experience building web applications that are performant, scalable, and user-friendly. I enjoy solving complex problems, learning new technologies, and collaborating with others to create impactful solutions.
 
-- 🔭 I’m currently working on [a react-native game.](https://github.com/Sagar-Shetty21/Hand-Cricket-Game)
+### 💫 About Me:
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🔭 I’m currently working on rebuilding my portfolio in 3D.
+
+- 🌱 I’m currently learning **Three.js**
 
 - 👨‍💻 All of my projects are available at [https://sagarshetty.netlify.app/#Work](https://sagarshetty.netlify.app/#Work)
 
-- 📫 How to reach me **sagarmshetty@outlook.com**
+- 📫 How to reach me **dev.sagarshetty@gmail.com**
 
 - 📄 Know about my experiences [https://sagarshetty.netlify.app/assets/Resume/resume.pdf](https://sagarshetty.netlify.app/assets/Resume/resume.pdf)
 
@@ -47,6 +48,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sagar-shetty21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagar-shetty21&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for visiting! ⭐️ Feel free to explore my repositories and drop a 🌟 if you find something interesting!
