@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with 15 
 
 - 📫 How to reach me **dev.sagarshetty@gmail.com**
 
-- 📄 Know about my experiences [https://sagarshetty.netlify.app/assets/Resume/resume.pdf](https://sagarshetty.netlify.app/assets/Resume/resume.pdf)
+- 📄 Know about my experiences [https://sagarshetty.netlify.app/assets/Resume/resume.pdf](https://sagarshetty.netlify.app/assets/resume.pdf)
 
 - ⚡ Fun fact **I speak four languages fluently: English, Kannada, Hindi, and JavaScript!**
 
