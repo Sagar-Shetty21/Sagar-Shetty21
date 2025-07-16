@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with 15 
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on rebuilding my portfolio in 3D.
+- 🔭 I’m currently working on [this](https://github.com/Sagar-Shetty21/SaveTrackr) app.
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently exploring **DevOps Tools**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sagarshetty.netlify.app/#Work)
 
