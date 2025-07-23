@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with 15 
 
 - 🌱 I’m currently exploring **DevOps Tools**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sagarshetty.netlify.app/#Work)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sagarshetty.netlify.app/)
 
 - 📫 How to reach me **dev.sagarshetty@gmail.com**
 
