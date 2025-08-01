@@ -10,11 +10,14 @@
 
 <hr/>
 
-- 🔭 I’m currently working on [this](https://github.com/Sagar-Shetty21/SaveTrackr) app.
+🚧 **Currently Working On:**  
+<a href="https://github.com/Sagar-Shetty21/SaveTrackr"><img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" /></a>  
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://sagarshetty.netlify.app/)
+📂 **My Portfolio:**  
+<a href="https://sagarshetty.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" /></a>  
 
-- 📫 You can reach me at **dev.sagarshetty@gmail.com**
+📬 **Contact Me:**  
+<code>dev.sagarshetty@gmail.com</code>
 
 <hr/>
 
