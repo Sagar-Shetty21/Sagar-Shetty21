@@ -38,8 +38,8 @@
 <a href="https://dev.to/sagarshetty21" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sagar's Dev.to Account"/></a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sagar-shetty21&theme=blue-green&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shetty21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sagar-shetty21's Stats](https://github-readme-stats.vercel.app/api?username=Sagar-shetty21&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Sagar-shetty21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-shetty21&theme=vue-dark&hide_border=false)
+![Sagar-shetty21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-shetty21&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sagar-Shetty21&label=Profile%20views&color=0e75b6&style=flat-square" alt="sagar shetty" /></p>
