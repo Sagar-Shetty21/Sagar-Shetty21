@@ -30,6 +30,27 @@
 
 <hr/>
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      🚧 <strong>Currently Working On</strong><br/>
+      <a href="https://github.com/Sagar-Shetty21/SaveTrackr">
+        <img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      📂 <strong>My Portfolio</strong><br/>
+      <a href="https://sagarshetty.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      📬 <strong>Contact Me</strong><br/>
+      <code>dev.sagarshetty@gmail.com</code>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
