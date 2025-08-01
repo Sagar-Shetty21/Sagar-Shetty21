@@ -8,14 +8,22 @@
   </a>
 </p>
 
-<br/>
+<hr/>
 
 - 🔭 I’m currently working on [this](https://github.com/Sagar-Shetty21/SaveTrackr) app.
 
-- 🌱 I’m currently exploring **DevOps Tools**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://sagarshetty.netlify.app/)
 
-- 📫 How to reach me **dev.sagarshetty@gmail.com**
+- 📫 You can reach me at **dev.sagarshetty@gmail.com**
+
+<hr/>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sagarshetty21/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sagar's LinkedIn Profile" /></a>
+<a href="https://codepen.io/Sagar__Shetty" target="_blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Sagar's Codepen Account" /></a>
+<a href="https://dev.to/sagarshetty21" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sagar's Dev.to Account"/></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sagar-Shetty21&label=Profile%20views&color=0e75b6&style=flat-square" alt="sagar shetty" /></p>
