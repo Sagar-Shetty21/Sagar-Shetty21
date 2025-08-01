@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sagarshetty21/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sagar's LinkedIn Profile" /></a>
@@ -94,7 +94,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-shetty21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-shetty21&theme=blue-green&hide_border=false" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-shetty21&theme=blue-green&hide_border=false" /> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shetty21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
