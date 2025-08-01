@@ -52,4 +52,10 @@
 
 </div>
 
+<br/>
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
+
+<br/>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sagar-Shetty21&label=Profile%20views&color=0e75b6&style=flat-square" alt="sagar shetty" /></p>
