@@ -11,16 +11,22 @@
 <hr/>
 
 <p align="center">
-    🚧 <strong>Currently Working On:</strong>
+    🚧 <strong>Currently Working On</strong>
     <br/>
     <a href="https://github.com/Sagar-Shetty21/SaveTrackr"><img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" /></a>  
 </p>
 
-📂 **My Portfolio:**  
-<a href="https://sagarshetty.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" /></a>  
+<p align="center">
+    📂 <strong>My Portfolio</strong>
+    <br/>
+    <a href="https://sagarshetty.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" /></a>  
+</p>
 
-📬 **Contact Me:**  
-<code>dev.sagarshetty@gmail.com</code>
+<p align="center">
+    📬 <strong>Contact Me</strong>
+    <br/>
+    <code>dev.sagarshetty@gmail.com</code>  
+</p>
 
 <hr/>
 
