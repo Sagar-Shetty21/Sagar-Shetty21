@@ -30,27 +30,6 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      🚧 <strong>Currently Working On</strong><br/>
-      <a href="https://github.com/Sagar-Shetty21/SaveTrackr">
-        <img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      📂 <strong>My Portfolio</strong><br/>
-      <a href="https://sagarshetty.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      📬 <strong>Contact Me</strong><br/>
-      <code>dev.sagarshetty@gmail.com</code>
-    </td>
-  </tr>
-</table>
-
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
@@ -58,5 +37,9 @@
 <a href="https://codepen.io/Sagar__Shetty" target="_blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Sagar's Codepen Account" /></a>
 <a href="https://dev.to/sagarshetty21" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sagar's Dev.to Account"/></a>
 </p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sagar-shetty21&theme=blue-green&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shetty21&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sagar-Shetty21&label=Profile%20views&color=0e75b6&style=flat-square" alt="sagar shetty" /></p>
