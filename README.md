@@ -10,8 +10,10 @@
 
 <hr/>
 
-🚧 **Currently Working On:**  
-<a href="https://github.com/Sagar-Shetty21/SaveTrackr"><img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" /></a>  
+<p align="center">
+    🚧 **Currently Working On:**  <br/>
+    <a href="https://github.com/Sagar-Shetty21/SaveTrackr"><img src="https://img.shields.io/badge/SaveTrackr-Visit-blue?style=for-the-badge&logo=github" /></a>  
+</p>
 
 📂 **My Portfolio:**  
 <a href="https://sagarshetty.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Link-orange?style=for-the-badge&logo=netlify" /></a>  
