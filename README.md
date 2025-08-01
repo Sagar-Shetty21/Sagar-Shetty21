@@ -8,7 +8,8 @@
   </a>
 </p>
 
-<hr/>
+<br/>
+<br/>
 
 <p align="center">
     🚧 <strong>Currently Working On</strong>
@@ -28,7 +29,8 @@
     <code>dev.sagarshetty@gmail.com</code>  
 </p>
 
-<hr/>
+<br/>
+<br/>
 
 <h3 align="center">Connect with me</h3>
 
@@ -37,6 +39,8 @@
 <a href="https://codepen.io/Sagar__Shetty" target="_blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Sagar's Codepen Account" /></a>
 <a href="https://dev.to/sagarshetty21" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sagar's Dev.to Account"/></a>
 </p>
+
+<hr/>
 
 <div align="center">
   
