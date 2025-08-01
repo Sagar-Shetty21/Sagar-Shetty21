@@ -42,7 +42,7 @@
 
 <hr/>
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
 ### 🧠 Languages
 
